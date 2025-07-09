@@ -1,0 +1,1 @@
+package com.devstaq.auth.api.data;
