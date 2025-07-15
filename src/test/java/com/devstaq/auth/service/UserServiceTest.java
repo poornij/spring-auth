@@ -25,7 +25,7 @@ import static org.mockito.ArgumentMatchers.anyString;
 import static org.mockito.Mockito.when;
 
 @ExtendWith(MockitoExtension.class)
-@Disabled("Temporarily disabled due to OAuth2 dependency issues")
+//@Disabled("Temporarily disabled due to OAuth2 dependency issues")
 public class UserServiceTest {
 
     private static final String USER_ROLE_NAME = "ROLE_USER";
